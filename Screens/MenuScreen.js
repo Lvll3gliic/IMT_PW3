@@ -22,7 +22,7 @@ const DATA = [
   },
   {
     id: 'Gustavs',
-    title: 'Valts Gustavs Gustavsons',
+    title: 'Valts Gustavs Gusmanis',
   },
 ];
 const Item = ({ title, email }) => (
